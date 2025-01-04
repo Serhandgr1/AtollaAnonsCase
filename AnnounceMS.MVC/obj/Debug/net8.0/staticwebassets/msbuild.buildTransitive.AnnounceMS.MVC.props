@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AnnounceMS.MVC.props" />
+</Project>

@@ -1,0 +1,194 @@
+﻿@if (TempData["ErrorMessage"] != null)
+{
+        <div id="errorAlert" class="alert alert-danger">
+        @TempData["ErrorMessage"]
+        </div>
+}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<div class="container-fluid">
+    <!-- Page-Title -->
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="page-title-box">
+                <div class="row">
+                    <div class="col">
+                        <h4 class="page-title">Anons Yonetim Paneli</h4>
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item active">Admin Panel</li>
+                        </ol>
+                    </div>
+             
+                </div>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createAnnounce">
+                    <i class="mdi mdi-plus-circle me-1"></i>
+                    Yeni Duyuru
+                </button>
+            </div>
+
+        </div>
+  
+    </div>
+
+</div>
+<!-- Yeni Duyuru Modal -->
+<div class="modal fade" id="createAnnounce" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Yeni Duyuru</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <form id="createForm">
+                    <div class="mb-3">
+                        <label class="form-label">Başlık</label>
+                        <input type="text" class="form-control" id="createTitle" required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Açıklama</label>
+                        <textarea class="form-control" id="createContent" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Başlangıç Tarihi</label>
+                        <input type="datetime-local" class="form-control" id="createStartDate" required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Bitiş Tarihi</label>
+                        <input type="datetime-local" class="form-control" id="createEndDate" required>
+                    </div>
+                    <div class="mb-3">
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="createIsActive" checked>
+                            <label class="form-check-label">Aktif</label>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+               <button type="submit" form="createForm" class="btn btn-primary">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section styles {
+    <!-- jvectormap -->
+    <link href="~/lib/jvectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet">
+}
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                $('#errorAlert').fadeOut('slow');
+            }, 5000);
+        });
+    </script>
+    <script src="~/lib/jvectormap/jquery-jvectormap-2.0.2.min.js"></script>
+    <script src="~/lib/jvectormap/jquery-jvectormap-us-aea-en.js"></script>
+    @* create-annonce *@
+    <script>
+        $('#createForm').on('submit', function(e) {
+    e.preventDefault();
+    
+    var form = this;
+    
+    // Form validasyonu
+    if (!form.checkValidity()) {
+        e.stopPropagation();
+        $(form).addClass('was-validated');
+        return;
+    }
+
+    // Tarih değerlerini al
+    var startDateStr = $('#createStartDate').val();
+    var endDateStr = $('#createEndDate').val();
+
+    // Tarih kontrolü
+    if (!startDateStr || !endDateStr) {
+        alert('Lütfen başlangıç ve bitiş tarihlerini giriniz.');
+        return;
+    }
+
+    try {
+        // Form verileri
+        var data = {
+            title: $('#createTitle').val().trim(),
+            content: $('#createContent').val().trim(),
+            startDate: moment(startDateStr).format('YYYY-MM-DDTHH:mm:ss'),
+            endDate: moment(endDateStr).format('YYYY-MM-DDTHH:mm:ss'),
+            isActive: $('#createIsActive').is(':checked')
+        };
+
+        // Boş alan kontrolü
+        if (!data.title || !data.content) {
+            alert('Lütfen başlık ve açıklama alanlarını doldurunuz.');
+            return;
+        }
+
+        // Tarih mantık kontrolü
+        if (moment(data.endDate).isBefore(data.startDate)) {
+            alert('Bitiş tarihi başlangıç tarihinden önce olamaz.');
+            return;
+        }
+
+        // AJAX isteği
+        $.ajax({
+            url: '/Announce/Create',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(data),
+            beforeSend: function() {
+                // İstek öncesi loading gösterilebilir
+                $('#createSubmitButton').prop('disabled', true).html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> İşleniyor...');
+            },
+            success: function(response) {
+                if (response.success) {
+                    // Başarılı işlem
+                    $('#createAnnounce').modal('hide');
+                    // Başarı mesajı göster
+                    toastr.success('Duyuru başarıyla oluşturuldu.');
+                    // Sayfayı yenile
+                    setTimeout(function() {
+                        location.reload();
+                    }, 1000);
+                } else {
+                    // Sunucudan gelen hata
+                    toastr.error(response.message || 'Bir hata oluştu');
+                }
+            },
+            error: function(xhr) {
+                // AJAX hatası
+                toastr.error('İşlem sırasında bir hata oluştu: ' + (xhr.responseJSON?.message || 'Bilinmeyen hata'));
+            },
+            complete: function() {
+                // İşlem bittiğinde butonu normale döndür
+                $('#createSubmitButton').prop('disabled', false).html('Kaydet');
+            }
+        });
+    } catch (error) {
+        console.error('Form işleme hatası:', error);
+        toastr.error('Form işlenirken bir hata oluştu.');
+    }
+});
+
+
+    // Modal kapandığında formu sıfırla
+    $('#createAnnounce').on('hidden.bs.modal', function() {
+        var form = $('#createForm');
+        form[0].reset();
+        form.removeClass('was-validated');
+    });
+
+    // // Form submit olayını bağla
+    // $(document).ready(function() {
+    //     $('#createForm').on('submit', function(event) {
+    //         createAnnouncement(event);
+    //     });
+    // });
+
+    </script>
+}

@@ -1,0 +1,72 @@
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.deps.json
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.runtimeconfig.json
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfo.cs
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.sourcelink.json
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\Announce.EC667B21.Up2Date
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\refint\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.genruntimeconfig.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\ref\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.deps.json
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.runtimeconfig.json
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\Announce.EC667B21.Up2Date
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\refint\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.genruntimeconfig.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Infrastructure\obj\Debug\net8.0\ref\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.deps.json
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.runtimeconfig.json
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\Announce.EC667B21.Up2Date
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\refint\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.genruntimeconfig.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\ref\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.deps.json
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.runtimeconfig.json
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\Announce.EC667B21.Up2Date
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\refint\AnnounceMS.Infrastructure.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.pdb
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\AnnounceMS.Infrastructure.genruntimeconfig.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Infrastructure\obj\Debug\net8.0\ref\AnnounceMS.Infrastructure.dll

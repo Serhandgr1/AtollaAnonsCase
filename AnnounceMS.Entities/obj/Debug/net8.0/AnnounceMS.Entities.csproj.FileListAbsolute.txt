@@ -1,0 +1,48 @@
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.deps.json
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfoInputs.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfo.cs
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.sourcelink.json
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\refint\AnnounceMS.Entities.dll
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\source\repos\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\ref\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.deps.json
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\refint\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS\AnnounceMS.Entities\obj\Debug\net8.0\ref\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.deps.json
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\refint\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\ref\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.deps.json
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\bin\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfoInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.AssemblyInfo.cs
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.sourcelink.json
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\refint\AnnounceMS.Entities.dll
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\AnnounceMS.Entities.pdb
+C:\Users\dogru\Desktop\AnnounceMS (2)\AnnounceManagerSystem\AnnounceMS.Entities\obj\Debug\net8.0\ref\AnnounceMS.Entities.dll
